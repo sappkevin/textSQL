@@ -6,12 +6,9 @@
 
 :us: Demo on US Census Data: [CensusGPT.com](https://censusgpt.com)
 
-
-<h3 align="center">
-<a href="http://sanfranciscogpt.com" target="_blank"> SanFranciscoGPT </a>&bull;
-  <a href="https://censusgpt.com/" target="_blank"> CensusGPT </a>&bull;
-  <a href="https://t.co/FuOOcB6aGr"><b>Join the Discord Server</b></a>
-</h3>
+## DATASETS
+Austin Events
+https://data.austintexas.gov/Utilities-and-City-Services/ACCD-Event-Listings/p9ma-z6y9
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <p align="center">
